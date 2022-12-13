@@ -7,8 +7,7 @@
 * возобновление  
 * индикация загрузки файла  
   
-Ссылка на наглядную информацию (документы/ фото):
-https://drive.google.com/open?id=1h76Zsp6Yb8jWFi_bZA0TOD5wmyWaMRck
+![image](/3.png)
 
 MIT License
 
